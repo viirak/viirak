@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Virak, a fullstack developer. I prefer backend work, but I also enjoy frontend work!\
+My favorite type of language is strongly types & functional (like go).
+
 <!--
 **viirak/viirak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
